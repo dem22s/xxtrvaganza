@@ -606,17 +606,6 @@ a:hover {
 #tabs2-5 UL {
   text-align: left;
 }
-#footer2-b .footer-list {
-  color: #74a3c7;
-}
-#footer2-b .btn-social {
-  border-color: #74a3c7;
-  color: #74a3c7;
-}
-#footer2-b .btn-social:hover {
-  background: #74a3c7;
-  color: #fff;
-}
 #menu1-f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -681,17 +670,6 @@ a:hover {
 #menu1-f .link[aria-expanded="true"],
 #menu1-f .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
-}
-#footer2-g .footer-list {
-  color: #74a3c7;
-}
-#footer2-g .btn-social {
-  border-color: #74a3c7;
-  color: #74a3c7;
-}
-#footer2-g .btn-social:hover {
-  background: #74a3c7;
-  color: #fff;
 }
 #header1-o .mbr-iconfont {
   color: #fff;
