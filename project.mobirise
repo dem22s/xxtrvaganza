@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "xxtravaganza(1stwebzinecomposed)",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -729,58 +729,6 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-p"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-q"
         }
       ]
     },
@@ -891,58 +839,6 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-r"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-s"
         }
       ]
     },
@@ -1053,58 +949,6 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-t"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-u"
         }
       ]
     },
@@ -1215,58 +1059,6 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-v"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-w"
         }
       ]
     },
@@ -1377,58 +1169,6 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-x"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-y"
         }
       ]
     },
@@ -1539,58 +1279,6 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-z"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-10"
         }
       ]
     },
@@ -1701,58 +1389,6 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-11"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-12"
         }
       ]
     },
@@ -1863,58 +1499,6 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-13"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-14"
         }
       ]
     },
@@ -2025,58 +1609,6 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-15"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-16"
         }
       ]
     },
@@ -2187,58 +1719,6 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-19"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-1a"
         }
       ]
     },
@@ -2349,58 +1829,6 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-1b"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-1c"
         }
       ]
     },
@@ -2511,58 +1939,6 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-1d"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-1e"
         }
       ]
     }
